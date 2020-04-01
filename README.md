@@ -150,10 +150,10 @@ Delivery date: Friday, December 06, 2019
 
 #### Scope
 
-* End Users should be able to view the goworking tables;  
-* End Users should be able to see which chairs are occupied, for
+* Ethiele (Community Manager) should be able to view the goworking tables;  
+* Ethiele (Community Manager) should be able to see which chairs are occupied, for
    who, what company;  
-* End Users should be able to edit information about chairs, people,
+* Ethiele (Community Manager) should be able to edit information about chairs, people,
    companies;  
 
 ### v 0.2
@@ -170,8 +170,8 @@ Delivery date: Friday, December 12, 2019
 Delivery date: Wednesday, December 25, 2019
 
 * Editing inhabitants and businesses is working correctly;  
-* Only relevant functions appear for End Users;  
-* UX changes specific to Ethiele:  
+* Only relevant functions appear for Ethiele (Community Manager);  
+* UX changes specific to Ethiele (Community Manager):  
   * When clicking on an empty chair, an add new button is displayed
      inhabitant with specific form for this purpose;  
 
